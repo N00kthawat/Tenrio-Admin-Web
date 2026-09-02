@@ -1,0 +1,12 @@
+.next/
+node_modules/
+dist/
+out/
+coverage/
+*.log
+next-env.d.ts
+# pnpm
+.pnpm-store/
+
+# TypeScript
+*.tsbuildinfo
